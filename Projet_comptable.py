@@ -80,7 +80,7 @@ def recherche_fature_date(cursor):
     and will be mostly use to retrieve data.
     """
 
-    print("Utilises Cette Format: ({v}jour/mois/an{f}) ({v}31/01/2020{f})")
+    print(f"Utilises Cette Format: ({v}jour/mois/an{f}) ({v}31/01/2020{f})")
 
     
     date_input1 = (input("Entre : "))
