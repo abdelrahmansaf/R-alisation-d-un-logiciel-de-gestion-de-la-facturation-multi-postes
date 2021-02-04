@@ -12,7 +12,7 @@ Il demandera à l’utilisateur de rentrer le numéro de facture afin qu’il l�
 
 
 La touche “ 2 ” permettra à l’utilisateur d’ajouter un nouveau client et par la suite d'entrer directement les informations tels que  
-[ 'Email'  'Nom' 'Adresse' 'Numero de Telephone' 'Client type' ]
+           [ 'Email'  'Nom' 'Adresse' 'Numero de Telephone' 'Client type' ]
 
 
 
