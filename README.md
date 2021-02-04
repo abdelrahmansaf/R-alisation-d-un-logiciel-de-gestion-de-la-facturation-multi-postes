@@ -12,17 +12,14 @@ Il demandera à l’utilisateur de rentrer le numéro de facture afin qu’il l�
 
 
 La touche “ 2 ” permettra à l’utilisateur d’ajouter un nouveau client et par la suite d'entrer directement les informations tels que  
-           [ 'Email'  'Nom' 'Adresse' 'Numero de Telephone' 'Client type' ]
-
+          
+         [ 'Email'  'Nom' 'Adresse' 'Numero de Telephone' 'Client type' ]
 
 
 
 La touche “ 3 “ vous permettra de modifier les info d’un client à partir de son nom ou son email :
- - Email
- - Nom
- -Adresse
- -Numero de Telephone 
- -Client type
+
+         [ 'Email'  'Nom' 'Adresse' 'Numero de Telephone' 'Client type' ]
 
 
 La touche “4” permettra de rechercher des factures entre deux dates et avoir le resultat dans un fichier csv en utilisant ce format:	
